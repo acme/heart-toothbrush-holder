@@ -120,6 +120,5 @@ show_object(vase, name="heart")
 
 # Export the object
 cq.exporters.export(vase, 'heart-toothbrush-holder.3mf')
-cq.exporters.export(vase, 'heart-toothbrush-holder.amf')
 cq.exporters.export(vase, 'heart-toothbrush-holder.step')
 cq.exporters.export(vase, 'heart-toothbrush-holder.stl')
